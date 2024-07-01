@@ -1,3 +1,3 @@
 # Metric-Imperial Converter
 
-This is the boilerplate for the Metric-Imperial Converter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter
+Metric-Imperial Converter is an app that allows users to convert weight, distance and volume values from metric to imperial units and vice versa. It is built to test my front-end, back-end, and especially testing skills thoroughly.
